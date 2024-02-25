@@ -1,0 +1,21 @@
+#video-background {
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    width: auto;
+    height: 600px;
+    z-index: -1000;
+    margin-bottom: 300px;
+}
+#content {
+    position: relative;
+    z-index: 1000;
+}
+.All-Nav{
+    margin-bottom: 200px;
+}
+.title-on-nav{
+    margin-top: -600px;
+    margin-bottom: 200px;
+    color: white;
+}

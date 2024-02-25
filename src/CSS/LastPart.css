@@ -1,0 +1,203 @@
+.last-part{
+    background: #0E0E12;
+    color: white;
+}
+.france-flag {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 5%;
+    overflow: hidden;
+    border: 2px solid #88898C;
+}
+.france-flag img {
+    width: 100%; /* Make the image fill the circular container */
+    height: 100%; /* Make the image fill the circular container */
+    object-fit: cover; /* Maintain aspect ratio while covering the container */
+}
+.one{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 50px;
+    margin-left: 5%;
+}
+.two{
+    margin-left: 9%;
+    margin-top: -38px;
+}
+.to-change{
+    background: transparent;
+    color: white;
+    border: transparent;
+    text-decoration: underline ;
+    margin-left: 17%;
+    font-size: 14px;
+    position: relative;
+    top: -38px;
+}
+.to-change:hover{
+    text-decoration: underline red 1.5px;    
+}
+.BigDivOne{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-bottom: 60px;
+    border-bottom: solid #404044 2px;
+}
+.divNum1{
+    width: 25%;
+    margin-left: 5%;
+}
+.LastPart-title{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+.LastPart-des{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 25px;
+}
+.Subscribe{
+    width: 85%;
+    border: none;
+    border-radius: 4px;
+    height: 40px;
+    font-size: 16px;
+}
+.Subscribe:hover{
+    background: grey;
+    color: white;
+}
+.LastPart-sous-titre{
+    color: white;
+    font-size: 16px;
+    text-decoration: underline #0E0E12 ;
+}
+.divNum2{
+    width: 25%;
+}
+#Subscribe{
+    margin-top: 25px;
+    margin-bottom: 55px;
+}
+.social{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-bottom: 70px
+}
+.facebook{
+    width: 20%;
+    margin-right: 10px;
+    height: 40px;
+    border-radius: 4px;
+    border: none;
+    margin-top: 25px;
+}
+.facebook:hover{
+    background: grey;
+}
+.facebook{
+    width: 40px;
+    margin-right: 10px;
+    height: 40px;
+    border-radius: 4px;
+    border: none;
+    margin-top: 25px;
+}
+.facebook:hover{
+    background: grey;
+}
+.instagram{
+    width: 40px;
+    margin-right: 10px;
+    height: 40px;
+    border-radius: 4px;
+    border: none;
+    margin-top: 25px;
+}
+.instagram:hover{
+    background: grey;
+}
+.Pintrest{
+    width: 40px;
+    margin-right: 10px;
+    height: 40px;
+    border-radius: 4px;
+    border: none;
+    margin-top: 25px;
+}
+.Pintrest:hover{
+    background: grey;
+}
+.Youtube{
+    width: 40px;
+    margin-right: 10px;
+    height: 40px;
+    border-radius: 4px;
+    border: none;
+    margin-top: 25px;
+}
+.Youtube:hover{
+    background: grey;
+}
+.Twitter{
+    width: 40px;
+    margin-right: 10px;
+    height: 40px;
+    border-radius: 4px;
+    border: none;
+    margin-top: 25px;
+}
+.Twitter:hover{
+    background: grey;
+}
+.LinkdLin{
+    width: 40px;
+    margin-right: 10px;
+    height: 40px;
+    border-radius: 4px;
+    border: none;
+    margin-top: 25px;
+}
+.LinkdLin:hover{
+    background: grey;
+}
+.BigDivTwo{
+    margin-left: 5%;
+    font-size: 14px;
+    margin-top: 50px;
+}
+.Big-href{
+    margin-left: 11.5%;
+    margin-top: -34px;
+}
+.DivTwoHref{
+    color: white;
+}
+.DivTwoHref:hover{
+    text-decoration: underline 1.5px red solid;
+}
+.BigDivTwo-text{
+    width: 95%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    letter-spacing: 1.1px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.BigDiv-Txt-1{
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.BigDiv-Txt-2{
+    font-size: 16px;
+}
+.Porshe-logo-in-white{
+    width: 300px;
+    margin-left: 35%;
+}

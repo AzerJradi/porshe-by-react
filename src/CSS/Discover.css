@@ -1,0 +1,87 @@
+.Discover-all{
+    position: relative;
+    top: 200px;
+    margin-left: 5%;
+    margin-bottom: 300px;
+}
+.card-img4{
+    object-fit: fill;
+    transition: transform 0.3s ease;
+    border-radius: 12px;
+    margin-left: -75px;
+}
+.enjoy_the_winter1{
+    margin-left: -300px;
+    margin-right: 160px;
+    margin-top: 190px;
+    color: white;
+}
+.enjoy_the_winter2{
+    margin-left: -430px;
+    margin-right: 230px;
+    margin-top: 205px;
+    color: white;
+}
+.enjoy_the_winter3{
+    margin-left: -260px;
+    margin-top: 205px;
+    margin-right: 50px;
+    color: white;
+}
+.iconButton1 {
+    position: absolute;
+    margin-right: -100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 2em;
+    width: 2em;
+    border-radius: 2px;
+    color: white;
+    right: 0.3em;
+    transition: all 0.3s;
+    position: relative;
+    left: -150px;
+    margin-top: 200px
+}
+.iconButton1:hover{
+    background: grey;
+}
+.iconButton2 {
+    position: absolute;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 2em;
+    width: 2em;
+    border-radius: 2px;
+    color: white;
+    right: 0.3em;
+    transition: all 0.3s;
+    position: relative;
+    left: -100px;
+    margin-top: 200px
+}
+.iconButton2:hover{
+    background: grey;
+}
+.iconButton3 {
+    position: absolute;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 2em;
+    width: 2em;
+    border-radius: 2px;
+    color: white;
+    right: 0.3em;
+    transition: all 0.3s;
+    position: relative;
+    left: 20px;
+    margin-top: 200px
+}
+.iconButton3:hover{
+    background: grey;
+}

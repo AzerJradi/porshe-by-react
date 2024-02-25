@@ -1,0 +1,86 @@
+.cards-{
+    margin-top: 50px;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    margin-left: 15%;
+}
+.card-img1{
+    object-fit: fill;
+    transition: transform 0.3s ease;
+    border-radius: 12px;
+    margin-right: 20px;
+}
+.card-img2{
+    object-fit: fill;
+    transition: transform 0.3s ease;
+    border-radius: 12px;
+    margin-right: 155px;
+}
+.card-img3{
+    object-fit: fill;
+    transition: transform 0.3s ease;
+    border-radius: 12px;
+}
+.enjoy_the_winter{
+    margin-left: -300px;
+    margin-right: 160px;
+    margin-top: 200px;
+    color: white;
+    font-weight: bold;
+}
+.iconButton {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 2em;
+    width: 2em;
+    border-radius: 2px;
+    color: white;
+    right: 0.3em;
+    transition: all 0.3s;
+    position: relative;
+    left: -70px;
+    margin-top: 200px
+}
+.iconButton:hover{
+    background: grey;
+}
+.iconButton1 {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 2em;
+    width: 2em;
+    border-radius: 2px;
+    color: white;
+    right: 0.3em;
+    transition: all 0.3s;
+    position: relative;
+    left: -50px;
+    margin-top: 200px;
+    margin-right: 25px;
+}
+.iconButton1:hover{
+    background: grey;
+}
+.iconButton3 {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 2em;
+    width: 2em;
+    border-radius: 2px;
+    color: white;
+    right: 0.3em;
+    transition: all 0.3s;
+    position: relative;
+    left: -40px;
+    margin-top: 200px
+}
+.iconButton3:hover{
+    background: grey;
+}
